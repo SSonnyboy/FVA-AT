@@ -1,0 +1,28 @@
+method: trades
+
+epochs: 200
+lr_init: 0.1
+lr_scheduler: multi_step
+lr_steps: [100, 150]
+lr_gamma: 0.1
+optimizer: sgd
+momentum: 0.9
+weight_decay: 5e-4
+
+
+epsilon: 8
+alpha: 2
+n_steps: 10
+beta: 6.0
+
+# Weight perturbation configuration
+# Options: none (default), awp, rwp, uawp
+perturbation: awp
+
+awp:
+  gamma: 0.01
+  warmup: 0
+
+rwp:
+  gamma: 0.01
+  warmup: 0

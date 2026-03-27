@@ -1,6 +1,6 @@
 # FVA-AT
 
-Feature Vulnerability-Aware Adversarial Training
+Feature Vulnerability-Aware Adversarial Training (ICME'26)
 
 ### Baseline
 
@@ -13,3 +13,4 @@ To train FVA-AT on CIFAR-10
 ```
 sh run.sh
 ```
+

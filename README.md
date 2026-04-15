@@ -22,7 +22,7 @@ If you find this work useful for your research, please consider citing our paper
 @inproceedings{chen2026FVAAT,
   title={Feature Vulnerability-Aware Adversarial Training},
   author={Yu Chen, Ke Wang, Fan Yang, Yifan Shuai, Qiang Xu and Honghao Wei},
-  booktitle={Proceedings of the 2026 IEEE International Conference on Multimedia and Expo},
+  booktitle={Proceedings of the 2026 IEEE International Conference on Multimedia and Expo (ICME)},
   year={2026}
 }
 ```

@@ -2,6 +2,8 @@
 
 Feature Vulnerability-Aware Adversarial Training (ICME'26)
 
+🎉 Our work has been accepted for ICME 2026 (Oral)!
+
 ### Baseline
 
 The baseline folder contains the comparison trial baseline implementation conducted in the experiment.
